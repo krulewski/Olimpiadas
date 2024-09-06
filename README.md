@@ -30,6 +30,4 @@ A aplicação permite que o usuário pesquise por atletas ou esportes. Os result
 
 Contribuições são bem-vindas! Abra um pull request para propor alterações.
 
-## Licença
 
-[Escolha a licença desejada, por exemplo, MIT]
